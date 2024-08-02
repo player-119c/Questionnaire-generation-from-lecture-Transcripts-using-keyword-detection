@@ -1,0 +1,392 @@
+artificial intelligence (AI)
+machine learning
+Stanford University
+computer science
+lecture
+course
+Dartmouth College
+John McCarthy
+Marvin Minsky
+Claude Shannon
+knowledge representation
+expert systems
+Lisp programming language
+knowledge engineering
+AI winter
+exponential search
+dynamic programming
+gradient descent
+edit distance
+substitution
+
+machine learning
+reflex models
+state based models
+variable based models
+logic models
+classification
+regression
+multi-class classification
+ranking
+structured prediction
+binary classification
+loss minimization
+stochastic gradient descent
+linear predictors
+feature extraction
+features
+email address
+learning algorithm
+predictor
+
+machine learning
+homework
+loss function
+residual
+margin
+gradient descent
+feature engineering
+feature template
+linear classifier
+hypothesis class
+neural network
+dimensionality reduction
+sparse features
+convex function
+nearest neighbors
+Voronoi diagram
+nonparametric model
+decision boundary
+learning algorithms
+
+machine learning
+supervised learning
+feature extraction
+feature vector
+linear predictors
+neural networks
+score function
+loss function
+training loss
+stochastic gradient algorithm
+generalization
+unseen future examples
+overfitting
+training set
+test set
+regularization
+leap of faith
+feature template
+k-means clustering
+
+search problems
+route-finding
+robot motion planning
+games
+machine translation
+reflex based models
+sequence of actions
+objective
+cost
+backtracking search
+best solution
+breadth-first search
+constant cost
+state space
+odd cities
+minimum cost path
+frontier
+unexplored
+export
+
+search algorithms: depth-first search, breadth-first search, dynamic programming, uniform cost search
+city block problem
+cost of going from city i to city j
+state: a summary of all past actions that are sufficient for us to choose the future optimally
+directionality
+cycles in search problems
+memoization
+positive costs
+negative costs
+training example
+true label
+prediction
+H function: a heuristic function to estimate the cost of the remaining path
+uniform cost search with heuristic function
+a star algorithm
+consistent heuristic
+triangle inequality
+relaxation: removing constraints from a problem
+relaxed problem
+
+Markov decision processes (MDPs)
+Uncertainty in the world
+Search problems
+Successor function
+Solution to search problems
+Actions in MDPs
+States in MDPs
+Transition probabilities
+Reward in MDPs
+Volcano crossing example
+Slip probability
+MVP definition
+Iterations in value iteration
+Value of a policy
+Policy evaluation
+Convergence in value iteration
+Gamma factor in MDPs
+Discount factor in MDPs
+Policy iteration in MDPs
+
+Reinforcement learning (RL)
+Markov decision process (MDP)
+Policy (pi)
+State (s)
+Action (a)
+Reward (r)
+Discount factor (gamma)
+Episode
+Utility (U)
+Value function
+Q-value
+Model-free
+On-policy vs. off-policy
+Model-based Monte Carlo
+Sarsa
+Q-learning
+Optimal Q-value (Q*)
+Multi-armed bandits
+Deep reinforcement learning
+
+two-player zero-sum games
+full observability
+turn-taking games
+game tree
+decision points
+minimax
+expecting max
+evaluation functions
+alpha-beta pruning
+policies
+values
+agent
+opponent
+successor function
+start state
+actions
+utilities
+recurrence
+leaf nodes
+
+
+
+minimax strategy
+expecting max strategy
+zero-sum two-player games
+turn-taking games
+evaluation functions
+simultaneous games
+non-zero-sum games
+rock-paper-scissors
+agent
+opponent
+utility
+minimax tree
+recurrence
+depth
+hand-crafted evaluation function
+learning evaluation function
+feature template set of feature templates
+weights
+linear classifier predictor
+
+
+constraint satisfaction problems (CSP)
+variable based models
+state based models
+local relationships
+global properties
+inference
+shortest path
+backtracking search
+minimum cost path
+value iteration
+policy iteration
+structured perceptron
+Q-learning
+TD learning
+Hungarian
+Austria
+adjacency matrix
+constraint satisfaction problem
+partial assignment
+
+
+Constraint Satisfaction Problems (CSPs)
+Variables
+Domains
+Factors (Functions)
+Scope (Arguments of a Factor)
+Assignments (Weight)
+Backtracking Search
+Constraint Satisfaction Problem Solving Algorithms
+Heuristic Ways to Speed Up Backtracking Search
+Forward Checking
+Dynamic Ordering
+Beam Search
+Greedy Search
+Partial Assignments
+Iterated Conditional Modes (ICM)
+Local Search
+Conditioning (In Constraint Satisfaction Problems)
+Variable Elimination
+Markov Blanket
+
+
+Bayesian networks
+factor graphs
+probability
+inference
+marginalization
+variable
+assignment
+earthquake
+burglary
+alarm
+naive Bayes
+latent Dirichlet allocation
+topic model
+social network analysis
+graphical model
+ancestor
+evidence
+condition
+query
+
+
+Bayesian networks
+Factor graphs
+Probabilistic inference
+Hidden Markov models (HMMs)
+Smoothing
+Beam search
+Particle filtering
+Lattice representation
+Gibbs sampling
+Resampling
+Marginal
+Iterative conditional modes
+Variable elimination
+Learning
+Joint distribution
+Local conditional distribution
+Sensor reading
+Hidden variables
+Observed variables
+
+
+Bayesian networks
+Modeling paradigm
+Variables
+Dependencies
+Directed edges
+Joint distribution
+Probabilistic database
+Oracle
+Queries
+Inference
+Filtering
+Smoothing
+Hidden Markov models (HMMs)
+Particle filtering
+Gibbs sampling
+Learning
+Supervised learning
+Unsupervised learning
+Local conditional distributions
+
+
+propositional logic
+logical reasoning
+knowledge base
+natural language processing
+inference
+entailment
+contradiction
+contingency
+satisfiability
+propositional symbols
+formulas
+models
+interpretation function
+truth table
+modus ponens
+definite clauses
+resolution rule
+syntax
+semantics
+
+
+propositional logic [00:02:52]
+first-order logic [00:02:52]
+knowledge base [00:10:23]
+entailment [00:13:08]
+contradiction [00:13:08]
+resolution rule [00:14:12]
+inference rules [00:14:53]
+modus ponens [00:14:53]
+horn clauses [00:14:53]
+CNF formula [00:15:21]
+3-satisfiability (3SAT) [00:16:13]
+soundness [00:18:02]
+completeness [00:18:32]
+model checking [00:21:23]
+CSP [00:21:23]
+unification [00:23:12]
+substitution [00:23:12]
+atomic formula [00:24:22]
+variable [00:24:22]
+
+
+deep learning
+neural networks
+McCulloch and Pitts
+perceptrons
+backpropagation
+convolutional neural networks (CNNs)
+recurrent neural networks (RNNs)
+long short-term memory (LSTM) cell
+attention based models
+transformers
+unsupervised learning
+SGD (stochastic gradient descent)
+batch norm
+optimization algorithms
+hidden vector
+gradient exploding/vanishing problem
+residual connections
+encoder-decoder
+machine translation
+
+
+machine learning
+stochastic gradient descent
+reflex based models
+state based models
+variable based models
+logic models
+loss minimization
+inference
+adversarial examples
+reading comprehension
+optimizing for clicks
+reward hacking
+human compatible AI
+generating fake content
+autonomous weapons systems
+interpretability
+transparency
+safety
+ethics
+

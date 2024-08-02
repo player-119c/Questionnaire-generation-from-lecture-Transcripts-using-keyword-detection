@@ -1,0 +1,338 @@
+
+computer vision [1,2]
+importance of computer vision [2]
+difficulty of understanding visual data [2]
+statistics about visual data [2,3]
+convolutional neural networks [4]
+interdisciplinary field of computer vision [4]
+Fei-Fei Li [4]
+machine learning [4]
+computer science [4]
+mathematics [4]
+engineering [4]
+ImageNet [5,6,7,8]
+object recognition [5,6,7,8]
+benchmark dataset [6]
+convolutional neural network model [6]
+AlexNet [7]
+image classification [8]
+image captioning [8]
+bounding boxes [8]
+
+
+computer vision
+big picture view
+lecture
+Stanford University
+convolutional neural networks
+deep learning
+image classification
+machine learning
+nearest neighbor classifier
+K nearest neighbor classifier
+SVM
+softmax
+neural network
+Python
+numpy
+Google Cloud
+Piazza
+SCPD students
+assignment
+vectorized operations
+convolutional neural network
+
+
+loss functions
+optimization
+Stanford University
+CS 231n
+computer vision
+image classification
+semantic gap
+K nearest neighbor classifier
+C part n dataset
+linear classifier
+parameter matrix
+image classification as learning templates per class
+linear decision boundaries
+hinge loss
+random search
+local geometry
+feature representations
+color histogram
+histogram of oriented gradients
+
+
+computational graphs
+backpropagation
+chain rule
+loss function
+gradient descent
+neural networks
+classifiers
+SGD (Stochastic gradient descent)
+regularization
+cost function
+activation functions
+hinge loss
+fully connected layers
+hidden layers
+neurons
+templates
+convolutional neural networks
+sigmoid function
+deep neural networks
+
+
+convolutional neural networks
+perceptron
+backpropagation
+image recognition
+Hubel and Wiesel
+visual cortex
+simple cells
+complex cells
+convolutional layer
+filter
+activation map
+stride
+zero padding
+common filter sizes
+one by one convolution
+convolutional layer in torch
+convolutional layer in caffe
+ComNet
+pooling layers
+
+
+Activation functions
+Sigmoid function
+ReLU function (Rectified Linear Unit)
+Leaky ReLU function
+Maxout
+Batch normalization
+Weight initialization
+Learning rate
+Hyperparameter optimization
+Cross-validation
+Gradient descent
+Epoch
+Loss function
+Cost function
+Validation set
+Regularization
+Overfitting
+Underfitting
+Model capacity
+
+
+Activation functions
+Vanishing gradients
+ReLU
+Weight initialization
+Xavier initialization
+MSRA initialization
+Data pre-processing
+Zero-Centering data
+Normalizing data
+Loss function
+Linear classifier
+Neural network
+Hyperparameter optimization
+Random search
+Grid search
+Learning rate
+Regularization
+Model size
+Block coordinate descent
+
+
+CPUs vs GPUs in deep learning
+GPU for deep learning
+Nvidia GPUs are preferred for deep learning
+Tensorflow
+PyTorch
+Caffe 2
+Deep learning frameworks
+Computational graph
+Building computational graph in TensorFlow
+Building computational graph in PyTorch
+Data loader in PyTorch
+Pre-trained models in PyTorch
+Visdom for visualization in PyTorch
+TensorBoard for visualization in TensorFlow
+Dynamic graphs
+Recursive networks
+Neuromodules networks
+Static graphs vs dynamic graphs
+Advantages and disadvantages of TensorFlow
+
+
+Convolutional Neural Networks (CNNs)
+Architectures for CNNs
+AlexNet
+VGG
+GoogleNet
+ResNet
+Inception Module
+Bottleneck Layers
+Pooling Layers
+Fully Connected Layers
+ImageNet Classification Benchmark
+LyNet
+Feature Representation
+Local Response Normalization
+Ensemble Learning
+Localization
+Inception Topology
+Vanishing Gradient Problem
+Feature Propagation
+
+
+recurrent neural networks (RNNs)
+gradient vanishing/exploding problem
+LSTM (Long Short-Term Memory) networks
+gated recurrent unit (GRU)
+image captioning
+convolutional neural networks (CNNs)
+visual question answering
+weight clipping
+attention models
+softmax loss
+residual networks
+batch normalization
+vanishing gradient problem
+image classification
+deep learning
+backpropagation
+natural language processing (NLP)
+L2 regularization
+hidden state
+
+
+Lecture 11: Detection and Segmentation
+CS 231 on computer vision
+Midterm grading
+Assignment 3 on computer vision
+Hyperparameter tuning with interactive tool
+Train game (Hyper Quest) to explore hyperparameter tuning
+Classification problem with ten classes
+Image data set with 8,500 training examples and 1,500 validation examples
+Learning rate, network size, dropout rate
+Epochs, validation set, accuracy
+Leaderboard for hyperparameter tuning performance
+Neural network, convolutional network
+Object detection, bounding box, category label
+ImageNet classification performance
+Pascal VOC data set for object detection
+Region proposal network (RPN)
+Selective search, a region proposal method
+Dense captioning, combining object detection with image captioning
+Faster R-CNN, a deep learning object detection model
+
+
+convolutional networks (CNNs)
+computer vision tasks
+semantic segmentation
+classification plus localization
+pose recognition
+object detection
+instance segmentation
+filters
+convolutional layer
+AlexNet
+visualization
+saliency maps
+grab cut segmentation algorithm
+guided back propagation
+deep dream
+image generation
+style transfer
+content loss
+style loss
+
+
+Generative models
+Unsupervised learning
+Supervised learning
+Pixel RNN
+Pixel CNN
+Variational autoencoders (VAEs)
+Density estimation
+Implicit density estimation
+Explicit density estimation
+Sample quality
+Latent representation
+Inference queries
+Adversarial generative networks (GANs)
+Game-theoretic approach
+State-of-the-art
+Unstable training
+Inference
+Variational lower bound
+Adversarial autoencoders
+
+
+Reinforcement learning
+Agent
+Environment
+State
+Action
+Reward
+Episode
+Markov decision process (MDP)
+Policy
+Optimal policy
+Discount factor
+Gridworld
+Random policy
+Optimal policy in Gridworld
+Expected sum of future rewards
+Glimpse
+Recurrent neural network (RNN)
+Policy gradient
+Attention model
+
+
+Deep learning models are getting larger and this creates challenges for deployment and training speed.
+Large models require more memory access, which is energy-consuming.
+We can improve deep learning efficiency by using algorithm and hardware co-design.
+There are two branches of hardware: general-purpose and specialized hardware.
+General-purpose hardware includes CPU and GPU.
+Specialized hardware includes FPGA and ASIC.
+CPUs are latency-oriented and single-threaded.
+GPUs are throughput-oriented and have many small threads.
+FPGAs are programmable hardware.
+ASICs are application-specific integrated circuits.
+Numbers in computer are represented by fixed-point numbers.
+FP32 uses 32-bit to represent a floating-point number.
+FP16 uses 16-bit to represent a floating-point number.
+TPU uses integer to represent a fixed-point number.
+Pruning removes connections with small weights from the network.
+Pruning can be used to compress models without hurting accuracy.
+Sparse activations allow you to ignore inactive neurons during computation.
+Weight sharing reduces memory footprint by storing weights only once.
+TPUs are more energy-efficient than CPUs and GPUs for deep learning.
+
+
+Adversarial examples
+Convolutional neural networks
+Machine learning
+Deep learning
+Gradient descent
+Accuracy
+Robustness
+Security threats
+Defenses
+Open research problem
+Image recognition
+Spam detectors
+Feature
+Linearity
+Decision boundary
+Fast gradient sign method (FGSM)
+Transferability
+Seaquest
+Reinforcement learning (RL)
+

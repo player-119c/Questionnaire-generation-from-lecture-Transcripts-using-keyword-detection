@@ -1,0 +1,1204 @@
+prior probability distribution
+learning curves
+kfold cross validation
+sgd
+ancestral sampling
+hyperparameters
+pointneuron
+step
+zero-one loss
+sequential minimal optimization algorithm
+krylov methods
+batch training
+spn
+automating feature selection see embeddings autoregressive decoding
+active constraint
+curse of dimensionality
+condition number  conditionalcomputationseedynamicstruc
+string ids
+fovea
+unbiased
+standard error of the mean   statistic
+regularization
+singular value
+diagonal matrix
+kmeans clustering
+iris data
+covariance matrix
+bellman equation
+normal distribution
+regularizer
+mnsit data
+kulbackleibler kl divergence
+kernel machine
+max norm
+bayesian inference
+convolutional network
+accuracy
+gradient descent
+mse see mean squared error
+primary visual cortex
+eulerlagrange equation
+principal components analysis
+dual lagrangian
+convolutional
+positive class
+positive phase      precision
+numpy aray
+data handling
+gans see generative adversarial networks gated recurrent unit
+grid search
+neural turing machine  neuroscience
+preprocessing
+rected model
+gym
+selfsupervised generative models  semantic hashing
+policy learning
+denoising
+data flows
+cd
+recurrent 
+domain adaptation
+gated recurent neural network  gated recurrent unit
+nesterov momentum
+second derivative test
+imagenet challenge
+detector layer
+challenges of  conjugate
+iid assumptions
+efficient code
+missing inputs
+compression
+supervised learning
+chordal graph
+unit vector
+mechanics of
+structural learning
+sessions
+loop
+uniform distribution
+local conditional probability distribution
+stochastic
+policy
+deep learning
+inequality constraint
+label
+undirected model
+generalize
+exponential distribution
+actors and actorcritics
+momentum based  strategiesoptimizers
+eligibility trace
+universal function approximator  unsupervised learning   upsampling
+quadrature pair
+gpu
+support vector regression
+hadamard product xii
+restricted boltzmann machine
+neural network
+product rule of probability
+hard problem
+multilayer perceptron
+kaggle
+artificial intelligence
+expectation maximization
+measure theory
+training error
+generalized linear
+tdx
+autoencoder
+isotropic
+random variable
+state history
+quadratic
+adaline see adaptive linear element
+probabilistic
+recall
+transfer function
+beam search
+ann see artificial neural network annealed importance sampling
+stochastic gradient descent
+bagging
+embedding
+chain rule calculus
+dae see denoising autoencoder
+policy
+policy learning versus value learning  qlearning
+natural image
+return
+brain
+linear maximum margin classifier
+whatandwhere networks
+frobenius norm
+pca
+representation learning
+batch normalization
+slow feature analysis
+leaky relu
+function approximators  functions
+local minima and
+probabilistic neural networks
+sensitivity
+free energy
+google syntaxnet
+maze example
+linear discriminant analysis   linear regression
+machines ntms
+aedecoder
+evidence lower bound   example
+sumproduct network
+unsupervised reinforcement and auxiliary
+me algorithm
+semisupervised learning
+empirical risk
+hyperparameter optimization  hyperparameters   hypothesis space
+doubly block circulant matrix  dream sleep
+densenet
+biased statistic
+threshold gain function
+working memory  write gate
+works
+artificial creativity
+accuracy
+cumulative density function
+classbased language models
+denoising autoencoder
+embedding
+random variables functions of  reasoning
+parallel distributed processing
+threshold
+nonlinear
+dropout
+chord
+with principal component analysis pca
+bayes error
+label smoothing
+logistic function
+versus vanilla deep neural networks
+persistent contrastive divergence see
+identity matrix
+transition function
+noisecontrastive estimation
+object recognition
+adaptive learning rates  agriculture
+index vector
+multinomial distribution
+expectation
+forward propagation
+house price data
+output function
+generative adversarial networks   generative moment matching networks  generator network
+minibatches
+independent component analysis
+probability mass function
+experience replay   implementation example  learning stability
+multitask learning
+wikibase
+machine translation
+hippocampus
+lipschitz continuous
+early stopping
+deep qnetwork dqn
+transpose
+image analysis
+reinforce
+error function
+python
+sequence processing
+statistical machine learning
+imagenet
+importance sampling    importance weighted
+long short term
+primitives for building rnn models
+dataset preprocessing  decode
+markov chain
+computer vision
+sample mean
+crossover
+joint probability
+compared to autoencoding
+onpolicy
+illconditioning
+density function
+normal equations
+baseline
+reinforcement learning
+object localization
+markov decision process
+information gain
+convd
+conditional rbm
+empirical distribution
+naming schemes
+neocortex
+autoencoders
+artificial neural networks
+matrix inverse
+modelbased reinforcement learning  model distribution
+probabilistic inference
+square matrix
+kernel trick
+adam
+see also embeddings feedforward neural networks
+crossvalidation
+wolperts no fre lunch theorem  word embedding
+asr
+ridge
+wavelet transform
+model parallelism
+online learning
+variational
+ratio matching
+crossentropy
+linear
+naive bayes
+gram matrix
+egreedy policy
+objective function
+markov assumption
+gabor function
+optimal
+gradient
+topographic ica
+visible
+bias
+alphago
+statistical inference
+invariance
+shortlist
+softmax
+convolutional neural network
+sparse coding
+reward prediction  rmsprop
+trace operator
+sklearn
+data leakage
+moment matching  moorepenrose pseudoinverse   moralized graph
+and vanishing gradients
+sigmoidal
+fscore
+max pooling layer in
+norm
+quasinewton methods
+tikhonov regularization
+penalty term
+sigmoidal neurons
+recurrent
+timing programs
+pseudolikelihood
+momentum optimizer
+optimization
+canny edge detector
+linear combination
+psd predictive sparse decomposition
+orthogonality
+glove
+gated recurent
+weaknesses
+connectionist temporal classification  consistency
+bernoulli distribution
+adaptive linear element
+perceptrons
+softplus
+surrogate loss function
+restricted boltzmann machine  retina
+audio
+factor graph
+exploration versus exploitation tradeof
+probability density function
+pooling
+optimal belman equation
+society
+gibbs sampling
+sessionrun
+learning
+neural network
+recurrent neural network
+read head
+bias parameter
+principal component analysis pca
+loss function
+feature
+language model
+linear regression
+actorcritic methods
+reinforcement learning
+lsquareerror
+whitening
+binary relation
+feature map
+neurons
+orthodox statistics see frequentist statistics orthogonal matching pursuit   orthogonal matrix
+method of steepest descent see gradient
+basis functions
+multilayer perception
+tokenization
+output value  output_logits  output_projection flag  overfitting
+gradient descent gd
+controller network  implementing in tensorflow  interferencefree writing in  memory reuse
+fisher
+clipping rewards
+long short term memory  loops
+autoencoders and
+multinoulli distribution
+stochastic backpropagation
+local invariance
+lipschitz constant
+babi dataset
+true positive rate
+cartpole environment
+descent minibatch
+modelfree reinforcement learning  modeling
+hidden layer
+polebalancing
+online algorithm
+complex cell
+ridge regression
+loglikelihood function
+partofspeech
+benchmark data
+one_hotfalse
+toeplitz matrix
+training neural networks
+access in ntms
+helmholtz free energy see evidence lower bound
+learning unreal  usage vector
+information retrieval
+output gate
+operation
+activation function
+bayes rule
+temporal diference  tensor
+unpack
+stochastic gradient descent sgd
+mcculochpits
+scikitlearn
+minibatch
+nearest neighbor regression
+kernels
+actor
+balancing data
+gated
+aeloss
+value iteration
+radial basis function kernel
+factors of variation
+datasetaugmentation
+concept drift
+maximum likelihood
+greedy supervised pretraining
+ture
+einsensitive error function
+batch normalization and  comparison with and without batch nor
+cyclic models
+conditional statements
+curse of dimensionality  cyc
+matrix
+singular value decomposition
+hebb rule
+alternating gibs sampling
+inception network
+lowdimensional representations
+automatic speech recognition
+convex optimization  convolution
+machine learning defining
+garden path sentences
+mstep
+latent variable
+sition
+gain function
+softmax output layers
+restricted linear unit relu neurons
+logistic regression model
+letter recognition
+precision
+selfdriving cars
+validation sets
+acceleration
+generalized linear regression
+tensors
+modeling
+histograms
+batch gradient descent
+long shortterm memory lstm model
+max_pool    mean_var_with_update
+validation
+attributes
+global contrast normalization
+probabilistic max pooling  probabilistic
+caffe
+batch
+maximum aposteriori
+image analysis example
+data generating distribution   data generating process
+partialy observable markov decision process  partition function
+dbm
+bayes nets
+point estimator
+pca  principal components analysis
+categorical distribution
+long shortterm memory
+vocabulary
+feature vector
+nesterov momentum optimization  neural ngram strategy
+malization
+standard deviation
+fourier transform
+marginal probability
+capturing attention in
+hessian
+line search
+supervised
+normal distribution
+timedelay neural network
+directed acyclic graphs
+likelihood
+lagrangian
+distributed representation
+objective function
+biasvariance tradeoff
+layer neural network
+kernel
+neon
+get_batch
+finetuning
+dags  data
+unnormalized probability distribution  unsupervised learning
+mean square eror function
+model averaging
+spearmint
+optimal policy
+candidate model
+calculus of variations
+collider see explaining away
+model
+nodes
+positioninvariant feature detectors
+stochastic neural networks
+policy gradients
+central limit theorem
+probability density function
+scalar
+read
+adagrad
+qlearning
+correlation
+consciousness
+crossentropy
+nabla operator
+quadratic error surface
+test sets
+negative phase
+advantage function
+gaussian distribution
+l regularization
+conditional independence xiii
+local normalization
+nonparametric model
+theano
+automatic differentiation
+selfinformation
+minimal local information see local minima model identifiability  momentumbased optimization  my_network
+mixture model
+einsensitive  polynomial
+contentbased addressing
+fullyvisible bayes network  functional derivatives
+pack
+vanilla
+atari games
+threshold perceptron
+partial derivative
+critical points and saddle points  effects of gradient direction
+neural turing machines ntms
+rectified linear unit
+bayesian networks
+numpy library
+rbm
+architectures
+boltzmanngibbs distribution
+fall out
+directional derivative
+generative adversarial network
+laplace smoothing
+structured probabilistic model
+exploitation
+computer  dimensionality reduction
+g
+lcn see local contrast normalization
+computer vision
+linearity limitations
+add_episode
+validation set
+sample_batch
+coordinate descent
+ssrbm see spike and slab restricted boltz
+generalized lagrange function see general
+markov chain monet carlo
+risk
+see also dimensionality reduction embed dings
+clustering
+mlp see multilayer perception mnist
+image processing
+learning rates
+recognition challenge
+learning rate
+nade
+regression
+parameter tying
+syntaxnet
+mcculochpits neuron
+gaussian kernel
+parameter initialization
+mpdbm see multiprediction dbm
+pcd  stochastic maximum likelihood perceptron
+triangulated graph see chordal graph trigram
+chess
+scater plots
+eigenvalue
+cnn
+support vector machines
+errorbackpropagation algorithm
+dense layers
+shift weighting
+bernoulli model
+challenge  immorality
+partition function
+yolo
+deep
+ngram
+unit norm
+inner product
+vgg
+principal component analysis
+forget gate
+probability theory
+nonlinear gain functions
+panda library
+exploreexploit dilemma  openai gym and
+adversarial example
+heuristic model
+early stopping
+object recognition
+fisher discriminant analysis
+atention
+discriminative model
+ploting
+stacking
+visual cortex
+character recognition
+negative definite
+feedforward neural network
+saddle points
+coverage
+volumetric data
+representational learning   rescorlawagner model
+batch algorithm
+linear factor models
+neocognitron
+kernel convolution
+positive definite
+variable scoping and sharing  variables creating and manipulating
+markov chain monte carlo
+signal decomposition
+conv_batch_norm  corrupt placeholder  create_model  critical points  crossentropy loss   cuda toolkit  cuda_home  cudnn toolkit  current_step
+expected risk
+nlm
+perceptron
+network dqn qfunction
+expected value mean
+centering trick dbm
+singular value decomposition
+artificial     associative memory
+probability mass function estimation
+delta learning rule
+causal models
+sparsity penalty
+discriminative finetuning
+sigmoidal perceptron
+information leakage
+graphics processing units
+with nonlinear neurons  stochastic sgd
+epistemological limitations
+einsensitive
+inference engine
+qiteration
+exploration
+probability distribution
+computational graph
+support vector
+unrolling through time
+equivariance
+object detection
+parameter sharing parametric model
+wordvec framework
+shannon entropy
+score matching
+visible neurons
+k nearest neighbors
+rnns
+input normalization  inputoutput relation  instrumental conditioning
+random walk
+initialization
+generative models
+dynamic structure
+recurrent neural network
+fpcd
+conditional distribution
+nonlinear support vector machines
+leveldbleveldb
+hopfield model
+importance sampling
+edge detection
+local contrast normalization
+training sets
+god oldfashioned ai gofai  goolenet
+stride
+continuous bag of words cbow model  controller loop
+overview  polebalancing  polecart
+episodic memory
+automatic speech recognition
+graphical models
+greedy algorithm
+generative
+episodic
+basal ganglia
+map approximation
+memory network
+get_all
+keras        kernel functions
+variational autoencoder   vc dimensions
+linear neurons
+dbm see deep boltzmann machine dcgan
+associative memory
+regularization
+contrastive divergence
+conjugate gradient descent
+maxout
+spectral radius
+einsensitive loss function
+asymptotically unbiased
+matrix
+precedence vector
+previous_losses
+error function see objective function esn see echo state network
+leaky units
+actorcritic schemes   actor value function
+value function  approximation
+lists
+hidden
+effective capacity
+sgd see stochastic gradient descent
+programming
+structured output
+softmax function
+density estimation
+modelbased
+gaussian mixture
+symbolic loops
+speech recognition
+negative class
+generalization
+mrf markov random field see undi
+lasso
+maxmi um likelihood estimate   bernouli model
+binomial distribution
+gradient descent
+multilayer model in
+bfgs algorithm
+markov random fields
+feature selection
+confusion matrix
+gaussian mixture model  generalization eror
+adam optimizer
+shoribless
+decision tree
+block gibbs sampling
+iteration
+allow_soft_placement
+sarsa
+latent dimensions
+offpolicy
+whitening
+numerical differentiation
+contrastive divergence
+segmentation
+link matrix
+relations
+loopy belief propagation
+squareerror los function
+neural translation networks
+endtoend solutions
+overview
+glauber dynamics
+true data distribution
+while loops
+stateaction value function
+skipgram architecture in
+link matrix update
+main diagonal
+allocation weighting
+determinant xii
+structure learning
+natural language procesing
+placeholders
+supervised generative models
+double
+frequentist probability
+irreducible indeterminacy
+optimal value function  optimization problem
+deep neural networks
+data parallelism
+multiprediction
+mixture of experts
+no free lunch theorem
+learning algorithm
+white box methods
+acyclic graphs
+joint distribution  jupyter notebook
+neural turing machines
+mixture distribution
+asynchronous advantage actorcritic ac
+ompk see orthogonal matching pursuit oneshot learning
+virtual adversarial
+logistic
+semantic hashing
+ksparse autoencoders
+quadratic discriminant analysis
+denoising autoencoder
+bayesian decision point
+discriminant analysis
+ais see annealed importance sampling almost everywhere
+deep belief network
+unsupervised pretraining
+pip
+hessian matrix
+target network    training
+autoencoders and  see also autoencoders
+high dimensions
+rbf
+pointestimate
+multilayer perceptron
+deep blue
+nonlinear regression
+manifold learning
+manifold hypothesis
+max pooling
+random forest classifier
+approximate inference
+max pooling
+filters and feature maps
+transfer learning
+logistic regression
+mixing markov chain
+ridge regression see weight decay
+posterior
+denoising score matching
+hyperparameter optimization
+inference
+variance
+imagenet large scale visual recognition
+adadelta
+machine learning
+facial recognition
+local minima
+keep gate
+hard
+second derivative
+derivative xiii
+svm
+statistical learning theory
+bounding box
+predictive learning
+qvalues
+subsymbolic artifical inteligence  summary statistics
+creative filters for artistic styles  filter hyperparameters
+chain rule of probability
+finite horizon case time interval
+fvbn see fullyvisible bayes network
+transfer learning
+leveldb
+backpropagation
+directed graphical model
+support vectors
+dataset
+multimodal learning
+measure zero
+binary classification
+central limit theorem
+ilsvrc see imagenet large scale visual
+moments
+bias
+policies
+kmeans
+relu
+backpropagation
+adversarial training
+ctc see connectionist temporal classifica
+regularization  reinforcement learning rl
+greedy layerwise unsupervised pretraining
+manifold tangent classifier
+recurrent network
+wakesleep
+prediction network   predict_action
+lambda wrapper
+scatter
+max norm constraints
+as turing machines see neural turing
+long shortterm memory lstm units
+convolutional see convolutional neural net
+dropconnect
+liquid state machine
+vectorized code
+linear dependence
+multinomial distribution
+feedforward see feedforward neural net
+stochastic maximum likelihood
+sum rule of probability
+zerodata learning
+nfold crossvalidation
+soft margin classifier
+logistic sigmoid
+random search
+data preparation for  model evaluation  model training  process tutorial  sequence analysis in
+differentiable neural computer dnc
+autoencoder  independence xiii
+wordvec
+data clustering
+recurrent neural networks
+deltafunction
+decoder
+critical temperature  crosscorrelation
+computer games
+dot product
+mann machine standard deviation
+maximum margin classifier
+data sets
+vector
+directed graphs
+multilayer
+skipthought vector
+gated recurrent unit gru  gated weighting
+harmonium see restricted boltzmann ma
+graph xii
+dense networks
+sigmoid
+true underlying world s
+farming
+torch
+spyder
+performance measures
+target qnetwork
+decoder network  decoder
+loss function see objective function lp norm
+bagging
+aeencoder
+search
+freebase
+prior knowledge
+dynamic programming
+sigmoid function
+color images
+activation function
+bfgs
+modelfree
+sparse representation
+operation visualization
+discounted future return  dqnagent   dropout
+differential entropy
+keras
+weight parameter
+performance of
+sessrun
+model bayesian probability  bayesian statistics
+uci machine learning repository  undersampling
+training   train_writeradd_summary
+read modes
+alpha
+boltzmann machine
+independent subspace analysis
+flat regions in
+adaptive learning rate algorithms  broydenfletchergoldfarbshanno
+adam optimization
+selfsupervised
+energy function
+test set
+supervised finetuning   supervised learning
+undirected graphical model   undirected model
+pos tagging
+write
+hidden layers
+parameterized function
+bootstrapping
+symbolic artifical intelligence
+chain rule
+equality constraint
+belman equation  optimal
+associative
+kullbackleibler diver
+kl divergence
+universal approximator
+lagrange multipliers
+median
+chi square distribution
+specifying in tensorflow  log_device_placement
+inference
+factor graphical model
+threshold logical unit
+eigendecomposition
+discriminative rbm
+random forest classifier    random numbers
+bag of words
+conditional random field
+hill climbing
+mcmc see markov chain monte carlo mean field
+artificial intelligence
+belief network see directed graphical model bernoulli distribution
+independent component analysis
+gibbs distribution
+ized lagrangian generalized lagrangian
+marginal distribution
+naive bayes
+adam optimization  rmsprop
+universal approximation theorem
+steepest descent
+finite differences
+vc dimension
+neural style  neural translation networks
+openai
+convolutional neural network
+conditional probability tables
+reparametrization trick
+separable convolution
+lookup weighting
+matrix product
+hamiltonjacobibelman equation
+deep qnetwork dqn see deep q
+alexnet
+symbolic programming
+context window
+external
+cost function see objective function covariance xiii
+laplace distribution
+manifold
+sparse representation
+gaussian eror function  gaussian kernel
+padding
+unigram
+empirical risk
+code efficiency
+natural language processing
+gcn see global contrast normalization geneontology
+stateful deep learning models  steepest descent
+noisecontrastive estimation nce
+infered causation
+mean squared error
+mem_opspy file
+approximate bayesian computation
+saddle points
+kkt
+hypothesis
+decision trees
+bayesian modeling
+likelihood function
+deep boltzmann machine
+dirac delta function
+model identifiability
+parametric relu
+stochastic maximum likelihood
+minibatch gradient descent
+support vector classifier
+radial basis function
+newtons method
+risk function
+epoch
+burnin
+link prediction
+markov condition
+dseparation
+pgagent
+generative neural networks  genetic algorithm
+padding sequences  parameter vectors
+receptive field
+least mean square eror  leaveoneout crossvalidation
+kullbackleibler divergence
+navie bayes asumption
+symmetric lateral connections  regression
+hyperplane
+skip connections
+dep learning
+biased importance sampling
+bigram
+echo state network
+learning rate
+manifold learning
+continuation methods  contractive autoencoder  contrast
+global normalization
+risk  rnnrbm
+product of experts
+learning visualization in
+cae
+callback function
+optimization breakthroughs see optimiza tion breakthroughs
+attention weighting  memory cells
+midbrain
+operations
+openml
+representational capacity
+recall
+factor analysis
+imitation
+parameter sharing
+reverse model algorithm  reward function
+class priors
+video games
+spam detection
+egreedy policy  embeddings
+gradient clipping
+false positive rate
+feature selection
+roc curve
+model markov random field
+recommender systems
+aeevaluate
+bias term
+jacobian matrix xiii
+deep deterministic actorcritic
+conditional probability
+chine harmony theory
+gaussian
+gini impurity
+dep
+posdataset
+markov decision process mdp
+differential neural computers dncs dimensionality reduction
+stochastic gradient descent
+support vector machine
+almost sure convergence
+r e s n e t
+deep feedforward network
+dropout
+for machine translation  sentiment analysis model  and sequence analysis  tensorflow primitives for
+cifar challenge
+statistical learning theory
+probabilistic classification
+frequentist statistics
+for sentiment analysis
+model compression
+onehot vectors
+normalized initialization
+markov network
+big data
+fourier transformation
+dot product
+classical conditioning   classification
+hidden neurons
+weight decay
+batch normalization and  gradient descent gd
+convolutional filters
+logging and training in tensorflow
+neuraly fited qiteration algorithm  neurons
+artificial neural network see neural net
+multivariate causal modeling  multivariate normal distribution  mutation
+convolutional layer
+eigenvector
+overfiting
+loss component
+triangle inequality
+gradient defined
+image preprocessing
+primal problem
+kullbackleibler kl divergence
+max pooling layer
+text processing   thalamus
+loop
+stm
+linear perceptrons
+momentum
+overfitting
+skipgram model
+go board game
+relational database
+training see training neural networks
+integral xiii
+boltzmann distribution
+temporal information tracking
+maximum likelihood principle
+connectionism
+and markov assumption  prediction network
+priors
+generalized
+vaule iteration   valuesearch
+memory
+polecart
+neural networks artificial
+convolutional neural networks cnns
+preoutput vector
+design matrix
+ebm see energybased model
+mixture density networks
+spurious local minima
+svd
+neural language model
+affine
+features
+transcription
+multiple random variables
+precision of a normal distribution   predictive sparse decomposition
+standard error
+data augmentation
+hoefding inequality
+state history and    index
+context and
+future return
+determining see training
+empirical risk minimization  encoder
+energybased model     ensemble methods
+true positivenegative
+local maximum
+feature maps
+cerebellum
+graphics processing unit
+sparsity in autoencoders
+chain rule of probability
+batch normalization
+distributed stochastic neighbor embedding
+normalizing the network
+bayesian
+as vector and matrix operations  complexity of models
+deep learning
+ft fast fourier transform  filters
+stochastic pooling
+cocktail party problem
+rmsprop
+context encoding
+false positivenegative
+recurrent neural networks rnns
+lea
+learning unreal  valuelearning
+logistic regression
+lstm see long shortterm memory
+optimization
+evidence
+probabilistic models
+crossvalidation
+separation probabilistic modeling
+leaky linear units
+experience replay
+word embedding
+bessels correction
+uniform distribution
+oversampling
+batch normalization   batchmajor vectors  batch_weightsappend
+neural turing machine
+tion curriculumlearning
+sentiment analysis
+mean
+euclidean norm
+independent and identically distributed see
+nat
+output layer
+pretraining
+weight decay
+black box methods
+partofspeech tagging
+polynomial loss function

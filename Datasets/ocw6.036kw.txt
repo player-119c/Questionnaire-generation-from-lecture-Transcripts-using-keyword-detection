@@ -1,0 +1,276 @@
+
+Machine learning course introduction
+Prerequisites for the course including python programming, numpy, pseudocode, familiarity with matrices, points and planes, gradients, and basic discrete probability
+Readiness assessment
+Course staff including Tamara Broderick
+Logistic regression
+Hypothesis function
+Linear classifiers
+Features and labels
+Training data
+Newborns with seizures as an example
+Labeling new data points
+Cost function
+Loss function
+0-1 loss function
+Evaluating a classifier
+Test error vs Training error
+Learning Algorithm
+Classifier with minimum error
+k-Nearest Neighbors Algorithm
+
+
+machine learning
+classifier
+hypothesis class
+linear classifier
+perceptron algorithm
+loss function
+0/1 loss
+training error
+learning algorithm
+linear classifier hypothesis
+perceptron theorem
+n (size of data)
+tau (step size)
+expanded feature vector
+binary classification
+multi-class classification
+regression
+labeled training data
+unsupervised learning
+
+
+
+machine learning analysis
+gathering data
+goal of machine learning analysis
+data and labels
+transforming data
+machine learning algorithms
+interpreting and evaluating
+linear classifiers
+perceptron algorithm
+zero-one loss
+training error
+classification
+feature engineering
+binary numbers
+one-hot encoding
+factored encoding
+k-fold cross-validation
+noisy test error
+overfitting
+
+
+perceptron algorithm
+linear separability
+logistic regression
+classification algorithm
+gradient descent
+uncertainty
+classifier
+data point
+probability
+label
+cost function
+minimize
+convex function
+learning algorithm
+stochastic gradient descent
+logistic regression objective
+optimum
+penalty
+machine learning
+
+
+Machine learning
+Classification
+Supervised learning
+Logistic regression
+Gradient descent
+Hypothesis
+Loss function
+Linear classification
+Feature vector
+Label
+Regularizer
+Ridge regression
+Stochastic gradient descent
+Linear regression
+Air conditioning bill
+Norm
+Dot product
+L1 penalty
+Lasso
+
+
+hypothesis class
+linear classification
+linear regression
+features
+step functions
+neural nets
+learning in neural nets
+polynomial features
+indicator function
+classifier
+exoplanets
+habitable zone
+weights
+hypothesis for classification
+features as a vector
+three features
+sigmoid function
+gradient descent
+backpropagation
+
+
+
+
+lecture 8: convolutional neural networks
+neural networks
+deep neural networks
+hidden layer
+convolutional neural network (CNN)
+filter
+max pooling
+gradient descent
+stochastic gradient descent
+back propagation
+imagenet
+large scale visual recognition challenge
+support vector machines (SVM)
+AlexNet
+convolutional neural network
+labeled data
+Amazon Mechanical Turk
+bias
+relu activation function
+
+
+state machines
+markov decision processes
+decision making
+farming
+soil
+planting
+fallowing
+reward function
+transition function
+stochastic
+harvest
+policy
+horizon
+discounted value
+infinite horizon
+gamma
+expected reward
+linear algebra
+optimal policy
+
+
+Markov decision process (MDP)
+Reward function
+Discount factor
+Policy
+Value of an action
+Q-star
+Epsilon-greedy
+Exploit
+Explore
+Nature
+Update
+Q-learning
+Optimal policy
+Transition model
+Rich soil
+Poor soil
+Plant
+Fallow
+Harvest
+
+
+state machines
+reinforcement learning
+supervised learning
+model-based reinforcement learning
+model-free reinforcement learning
+q-learning
+estimate q* function
+optimal policy
+text prediction
+assistive technology
+character prediction
+start character
+transition function
+update the state
+probability distribution
+one-hot encoding
+element-wise loss
+negative log likelihood
+recurrent neural networks
+
+
+decision trees
+random forests
+interpretability
+predictive performance
+machine learning
+neural networks
+linear regression
+logistic regression
+convolutional neural nets
+recurrent neural nets
+election audits
+Simpson's paradox
+medical applications
+asthma
+pneumonia
+risk of death
+data points
+splits
+leaves
+
+
+Supervised learning
+Unsupervised learning
+Clustering
+K-means clustering
+Loss function
+Squared Euclidean distance
+Feature vector
+Notation
+Indicator notation
+Optimization
+Iterations
+Coordinate ascent algorithm
+Coordinate descent algorithm
+Greedy algorithm
+Means
+Assignments
+Convergence
+Initialization
+Food trucks
+
+
+machine learning in healthcare
+digital health data
+electronic medical records
+health insurance companies
+providers payers and patients
+diagnosis codes
+apple watch
+machine learning based product
+diabetic retinopathy
+amazon cloud platform
+billing
+startups in healthcare
+pathology or medical imaging
+technicians
+feature extraction
+bag of words features
+demographics
+health insurance coverage
+service place categories
+

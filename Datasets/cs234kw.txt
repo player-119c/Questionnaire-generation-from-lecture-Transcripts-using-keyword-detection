@@ -1,0 +1,317 @@
+
+Reinforcement learning: an introduction to sequential decision making under uncertainty
+Agent: an intelligent agent that can make decisions
+Optimal decisions: decisions that have the best outcome
+Learning through experience: the agent learns from past decisions and rewards
+Biological intelligence: how biological agents make decisions
+Atari games: a benchmark for reinforcement learning algorithms
+Robotics: using reinforcement learning to control robots
+AI for human impact lab: applying reinforcement learning to solve human problems
+Educational games: using reinforcement learning to design educational games
+Machine teaching: teaching an agent how to make decisions
+Sample efficiency: reducing the number of samples needed for learning
+Discrete time steps: the agent makes decisions at specific points in time
+History: the sequence of previous actions, observations and rewards
+State space: all possible states the agent can be in
+Actions: the choices that the agent can make
+Rewards: the feedback signal that the agent receives for taking an action
+Bandits: a type of reinforcement learning problem with limited information
+MDPs (Markov decision processes): a framework for modeling decision making problems
+Model-based vs. model-free reinforcement learning: whether the agent has a model of the environment
+
+
+Markov Processes 
+Markov Reward Processes
+Markov Decision Processes
+Return & Value Function
+Infinite Horizon Markov Reward Process
+Bellman Equation for MRP
+State-Action Value Q
+Bellman Backup Operators
+Value Iteration
+Markov Chain
+
+
+
+
+Model-free policy evaluation
+Markov process
+Markov reward process
+Markov decision process
+Discounted sum of rewards
+State value function
+State-action value function (Q-function)
+Policy iteration
+Dynamic programming
+Value function iteration
+Convergence
+Epsilon
+Bootstrapping
+Stationary value function
+Monte Carlo policy evaluation
+Return
+Non-stationary cases
+Alpha (learning rate)
+Batch data set
+
+
+Model-free control
+Reinforcement learning
+Markov decision processes (MDPs)
+Backgammon
+Q-learning
+Monte Carlo control
+Epsilon-greedy policy
+Exploration vs exploitation
+Expected discounted sum of rewards
+Delayed consequences
+Sample complexity
+Convergence
+Optimal policy
+Q-function
+Sarsa
+Double Q-learning
+Maximization bias
+Stochasticity
+On-policy vs off-policy control
+
+
+value function approximation
+tabular representation
+generalization
+state action value function
+function approximation
+deep neural network
+bias variance trade-off
+compact representations
+episodic RL
+gamma function
+stationary distribution
+Monte Carlo update
+feature representation
+linear case
+q-learning
+convergence guarantees
+batch RL
+objective function
+Bellman errors
+
+
+deep learning
+deep reinforcement learning
+function approximation
+gradient descent
+mean squared error
+stochastic gradient descent
+value function
+Q-value
+linear value function approximation
+features
+state space
+action space
+policy
+return
+bootstrapping
+convolutional neural networks (CNNs)
+pooling layers
+Atari games
+experience replay buffer
+
+
+Deep Q-learning (DQN)
+Experience replay
+Fixed cue targets
+Stochastic gradient descent
+Double DQN
+Maximization bias
+Action selection vs. Evaluation
+Target networks
+Policy learning
+State features
+Value function approximation
+Imitation learning
+Behavioral cloning
+Inverse RL
+Optimal policy
+Reward function
+Gaussian distributions
+Conjugate exponential families
+Bayesian methods
+
+
+policy gradient methods
+reinforcement learning
+decision making
+delayed consequences
+exploration
+high dimensional spaces
+imitation learning
+function approximation
+value function
+policy search
+model free reinforcement learning
+stochastic policies
+local optima
+convergent policy convergence
+parameterization of the space of policies
+partially observable
+Markov decision process policy
+episodic settings
+continuing settings
+
+
+policy search
+value function approximation
+expected rewards
+intelligent tutoring systems
+worked examples
+derivations
+big picture
+real-world examples
+loud speaking
+office hours
+parameterised policy
+value of that policy
+local optima
+model free value based methods
+direct policy search methods
+actor critic methods
+large state spaces
+policy gradient methods
+Markovian assumption
+
+
+policy gradient
+reinforcement learning
+value function approximation
+softmax
+deep neural network
+gradient
+returns
+advantage estimates
+baseline
+monotonic improvement
+actor critic methods
+Monte Carlo estimates
+bootstrapping
+function approximation
+TD(n) methods
+Q-learning
+Markovian domains
+epsilon-greedy policy
+imitation learning
+behavior cloning
+policy search
+likelihood ratio policy gradient
+
+
+Reinforcement learning
+Sample efficiency
+Computational efficiency
+Policy search
+Q-learning
+Dynamic programming
+TD learning
+Atari
+Convergence
+Regret
+Bandit
+Greedy algorithm
+E-greedy algorithm
+Upper confidence bound ( UCB)
+Optimism under uncertainty
+Hopping inequality
+Expected mean
+True mean
+Empirical mean
+
+
+Reinforcement learning
+Bandit setting
+Stochastic distribution
+Sensor data
+Regret (mathematical)
+Upper confidence bound
+Optimism under uncertainty
+Beta distribution
+Conjugate prior
+Bernoulli parameter
+Misspecified priors
+PAC learning
+Model-based approaches
+Model-free approaches
+Empirical estimates
+Transition model
+Reward model
+Value iteration
+Epsilon-greedy
+
+
+
+MBI (Model-Based Inference)
+Epsilon
+Optimistic MDP
+Accuracy
+Value Function
+True MDP
+Bounded Update
+Empirical Transition Model
+Reward Bonus
+Sample Complexity
+Q-value
+Known State-Action Pair
+Simulation Lemma
+MDP Prime
+MDP Hat Prime
+Exploration Bonus
+Thompson Sampling
+Bootstrap DQN
+Bayesian Linear Regression
+Uncertainty Representation
+Pact
+Regret
+
+
+safe reinforcement learning
+counterfactual reasoning
+generalization
+policy evaluation
+unbiased estimator
+off-policy estimate
+behavior policy
+importance sampling
+confidence intervals
+doubly robust
+empirical distribution
+Hofftelling inequality
+range of potential returns
+conservative confidence interval
+lower bound
+digital marketing
+deploy
+clicks
+revenue
+diabetes simulator
+insulin regulation
+electronic medical record systems
+
+
+Monte Carlo tree search
+AlphaGo
+Model-based reinforcement learning
+Transition model
+Reward model
+Planning
+Value function
+Policy function
+Dynamic programming
+Policy iteration
+Model-free RL
+Simulator
+Sample efficiency
+Replay buffer
+Q-learning
+Markov assumption
+Upper confidence bound (UCT)
+Self play
+

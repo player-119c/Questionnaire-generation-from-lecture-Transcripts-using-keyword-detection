@@ -1,0 +1,437 @@
+
+
+
+machine learning
+Stanford CS229: Machine Learning Course
+Andrew Ng
+lecture 1
+applications of machine learning
+future of AI
+demand for machine learning skills
+machine learning projects
+exciting opportunities in machine learning
+legal industry and machine learning
+healthcare industry and machine learning
+logistics industry and machine learning
+cs229 course projects
+machine learning algorithms
+linear regression
+logistic regression
+clustering algorithms
+dimensionality reduction
+recommender systems
+
+
+
+Linear regression
+supervised learning algorithm
+learning algorithm
+hypothesis
+features
+training examples
+cost function
+gradient descent
+normal equations
+derivative
+design matrix
+label
+squared errors
+features are linearly dependent
+pseudo-inverse
+
+
+
+Supervised learning
+Linear regression
+Gradient descent
+Normal equations
+Locally weighted regression
+Nonlinear functions
+Feature interpretation
+Logistic regression
+Classification algorithm
+Probability interpretation
+Hypothesis
+Cost function
+Training example
+Feature
+Quadratic function
+Feature selection algorithm
+Parametric learning algorithm
+Nonparametric learning algorithm
+Likelihood
+
+
+
+perceptron algorithm
+logistic regression
+sigmoid function
+hypothesis function
+update rule
+learning rate
+perceptron learning algorithm
+classification
+decision boundary
+exponential family
+generalized linear models
+softmax regression
+multi-class classification
+cross-entropy
+loss function
+gradient descent
+labels
+probability distribution
+maximum likelihood estimation
+
+
+
+discriminative learning algorithms
+generative learning algorithms
+Gaussian Discriminant Analysis (GDA)
+logistic regression
+support vector machines
+classification
+features
+malignant tumors
+benign tumors
+Bayes rule
+P(X|Y)
+P(Y)
+maximum likelihood
+naive Bayes
+spam filter
+text classification
+feature vector
+conditional independence
+naive Bayes assumption
+
+
+
+Naive Bayes algorithm
+Generative learning algorithm
+Spam classifier
+Indicator function notation
+Maximum likelihood estimate
+Laplace smoothing
+Feature representation
+Bernoulli Naive Bayes
+Class label
+Conditional probabilities
+Non-spam emails
+Spam emails
+Zero-division error
+Stanford football team
+Logistic regression
+Gradient descent
+Unknown word token
+Misspelled words
+GDA (Gaussian Discriminant Analysis)
+
+
+
+Support Vector Machine (SVM) algorithm
+Optimal margin classifier
+Geometric margin
+Decision boundary
+Training set
+Functional margin
+Normal W
+Kernel trick
+Inner product
+Feature vectors
+High dimensional feature spaces
+Infinite dimensional feature spaces
+Representor theorem
+Optimization problem
+Classification problem
+Gamma
+Worst-case geometric margin
+No free lunch theorem
+Inductive biases
+
+
+
+bias
+variance
+underfitting
+overfitting
+regularization
+linear regression
+quadratic function
+high order polynomial
+holdout cross-validation
+dev set
+test set
+k-fold cross-validation
+simple cross-validation
+machine learning algorithms
+learning algorithms
+feature selection
+stop words
+preventive maintenance
+feature selection algorithms
+
+
+
+Learning theory
+Supervised learning
+Unsupervised learning
+Data generating distribution
+Sample
+Hypothesis
+Learning algorithm
+Estimator
+Sampling distribution
+True parameter
+Bias
+Variance
+Underfitting
+Overfitting
+Bias-variance tradeoff
+Estimation error
+Approximation error
+Generalization error
+Bayes error
+
+
+
+decision trees
+non-linear models
+binary classifier
+latitude
+feature space
+recursive partitioning
+greedy top-down recursive manner
+miss classification loss
+split function
+decision stumps
+ensemble methods
+bagging
+bootstrap samples
+bias-variance trade-off
+boosting
+weighted mistakes
+adaboost
+XG boost
+gradient boosting machines
+
+
+
+deep learning
+machine learning
+computer vision
+natural language processing
+speech recognition
+logistic regression
+classification algorithm
+image classification
+cuts in images
+sigmoid function
+neural network
+weights
+bias
+gradient descent
+loss function
+softmax multi-class network
+image labeling
+batch size
+broadcasting
+
+
+
+neural network
+logistic regression
+cost function
+batch size
+binary cross-entropy
+chain rule
+gradient descent
+vanishing gradient
+exploding gradient
+weight initialization
+mini-batch gradient descent
+momentum
+stochastic gradient descent
+activation function
+sigmoid
+ReLU
+deep learning
+CS229
+Piazza post
+
+
+
+machine learning applications
+debugging learning algorithms
+workflow of developing learning algorithms
+bias versus variance diagnostic
+high bias
+high variance
+logistic regression
+Bayesian logistic regression
+anti-spam classifier
+features
+gradient descent
+Newton's method
+regularization
+cost function
+optimization objective
+error analysis
+ablative analysis
+spam filter
+text positive features
+
+
+
+Unsupervised learning
+Labeled data
+Unlabeled data
+Clustering
+Market segmentation
+K-means clustering algorithm
+Cluster centroids
+Initialization
+Converge
+Cost function
+Assignments of points
+Iterations
+Local minima
+Anomaly detection
+Density estimation
+Mixture of gaussians model
+Expectation-Maximization (EM) algorithm
+E-step
+M-step
+
+
+
+Expectation-maximization (EM) algorithm
+Gaussian mixture models
+Lower bound
+Q-function
+Latent random variables
+Mixture of gaussians model
+E-step
+M-step
+Gaussian distributions
+Factor analysis model
+High-dimensional data
+Small data problems
+Machine learning applications
+Big data
+Scaling algorithms
+Training examples
+Latent random variables
+Conditional distribution
+Mean and covariance
+
+
+
+ICA independent component analysis
+CDF cumulative distribution functions
+ISEE model
+MDPs Markov decision processes
+overlapping voices demo
+cocktail party problem
+sources
+speakers
+training examples
+unmixing matrix
+rotational ambiguity
+Gaussian densities
+non Gaussian
+recover the independent sources
+data is not Gaussian
+density of s
+random variable
+cumulative distribution function
+likelihood
+
+
+
+Reinforcement learning
+Robotics
+Insight Mars Lander
+MDP (Markov decision process)
+State
+Action
+State transition probabilities
+Reward function
+Policy
+Optimal policy
+Value function
+V_pi (value function for a policy pi)
+V* (optimal value function)
+pi* (optimal policy)
+Bellman equation
+Value iteration algorithm
+Epsilon-greedy exploration
+Laplace smoothing
+Convergence
+
+
+
+MDP: Markov Decision Process [1,2]
+Reinforcement learning [1]
+Discretized state MDPs [1]
+Continuous state MDPs [1]
+Optimal policy [2]
+Value iteration algorithm [2]
+Policy iteration [2]
+Bellman equation [2]
+State space [2]
+Kinematic model [4]
+Dynamic model [4]
+Helicopter control [4]
+Inverted pendulum problem [5]
+Supervised learning [6]
+Linear regression [6]
+Fitted value iteration [7]
+Model-based RL [8]
+Deterministic simulator [9]
+Stochastic simulator [9]
+
+
+
+MDP - Markov Decision Process 
+state space
+action space
+reward function
+value function 
+optimal policy 
+Bellman equation 
+value iteration 
+finite horizon MDP 
+linear dynamical system 
+LQR - Linear Quadratic Regulator 
+stationary policy 
+non-stationary policy 
+state transition probabilities 
+discounted MDP 
+grading policy 
+fitted value iteration 
+
+
+
+reinforcement learning
+helicopter flight control
+aerobatic stunt
+chaos maneuver
+quadcopter drones
+debugging learning algorithms
+fitted value iteration
+reward function
+policy
+simulator
+diagnostics
+linear function approximator
+deep neural network
+discretizing
+gradient ascent algorithm
+gradient descent
+policy search algorithm
+value function approximation
+low-level controls
+
+
+

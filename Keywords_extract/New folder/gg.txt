@@ -1,0 +1,1 @@
+/html/body/chat-app/main/side-navigation-v2/bard-sidenav-container/bard-sidenav-content/div/div/div[2]/chat-window/div[1]/div[1]/infinite-scroller/div[2]/model-response/div/response-container/div/div[2]/div[1]/bard-avatar/div/div/div/div[1]/img

@@ -1,0 +1,884 @@
+machine learning
+computer program
+learn from experience
+improve performance
+algorithms
+data
+program generation
+prediction
+supervised learning
+data set
+labels
+feature vector
+spam filtering
+email classification
+stock market prediction
+MRI scan
+distribution
+iid
+bag of words
+text documents
+vector representation
+healthcare
+
+
+
+machine learning setup
+data set D
+n data points
+feature vector
+label
+distribution P
+Gaussian distribution
+real-world application
+Nokia face recognition system
+training data
+test data
+sparse vector
+dense vector
+image representation
+convolutional neural networks
+machine learning algorithm
+prediction
+generalization
+memorization
+
+
+
+Machine learning
+Loss function
+Generalization
+Expected loss
+Hypothesis class
+Feature vectors
+Labels
+Decision tree
+Training data
+Test data
+IID (independent and identically distributed) data
+Temporal component
+Validation set
+Overfitting
+Generalizability
+Minkowski distance
+Manhattan distance
+Euclidean distance
+Weak law of large numbers
+
+
+
+K nearest neighbor classifier
+Bayes optimal classifier
+Curse of dimensionality
+High dimensional space
+K nearest neighbors
+Distance metrics
+City block distance
+Circles and crosses dataset
+Mean label
+Demo
+Hypercube
+Error rate
+Pre-processing step
+Dimensionality reduction
+PCA
+Face recognition
+Perceptron
+Linear separator
+Support vector machine
+
+
+
+Perceptron algorithm
+Curse of dimensionality
+Hyperplane
+Linear separability
+Binary classification
+High dimensional space
+Inner product
+Weight vector
+Bias term
+Margin
+Update rule
+Misclassified point
+Training data set
+Zero-one loss
+Convergence
+Perceptron learning rule
+Perceptron demo
+Handwritten digits recognition
+28x28 pixel images
+
+
+
+perceptron algorithm
+linearly separable data
+hyperplane
+perceptron convergence proof
+perceptron update rule
+norm of a vector
+rescaling data points
+geometric intuition
+margin
+large margin classifiers
+historical significance of perceptron
+Marvin Minsky
+perceptron limitations
+XOR problem
+death of the first AI winter
+machine learning
+
+
+
+machine learning algorithms
+estimate the probability of Y given X
+discriminative learning
+generative learning
+Bayes optimal classifier
+maximum likelihood estimation (MLE)
+coin toss probability
+binomial distribution
+likelihood function
+log function
+frequentist statistics
+Bayesian statistics
+maximum a-posteriori (MAP) estimation
+smoothing
+alpha and beta parameters
+random variable
+Bayesian approach
+integrate out the model
+
+
+machine learning
+estimating probabilities from data
+naive bayes
+distribution
+maximum likelihood estimation
+maximum a posteriori estimation
+prior distribution
+coin tosses
+Bayesian statistics
+frequentist statistics
+classification
+classifier
+Bayes classifier
+naive Bayes assumption
+independent and identically distributed (IID)
+spam email
+sentiment analysis
+text analysis
+features
+
+
+K nearest neighbors
+metric learning
+naive Bayes classifier
+conditional probability table
+Gaussian weighting
+data augmentation
+feature weighting
+CPT
+machine learning talks at Cornell
+Steve Nash and Carl Sagan team (project 1)
+team Gamma
+Woody Kitty team
+naive Bayes assumption
+prior probability
+multinomial distribution
+email classification
+spam email
+feature vector
+likelihood
+
+
+
+naive Bayes
+generative algorithm
+estimate the distribution of data
+P of X given Y
+label
+high dimensional space
+independent features
+project the data onto each axis
+multinomial distribution
+continuous features
+classifier
+decision boundary
+linear classifier
+bag-of-words
+spam filtering
+maximum likelihood estimates
+smoothing
+naive Bayes classifier
+perceptron
+
+
+
+Naive Bayes
+Logistic Regression
+Empirical Risk Minimization
+Maximum A Posteriori (MAP)
+Multinomial Distribution
+Bayes Rule
+Classifier
+Label
+Feature
+Hyperplane
+Gaussian Distribution
+Linearly Separable
+Outlier
+Decision Boundary
+Likelihood
+Perceptron
+Kullback-Leibler (KL) Divergence
+Expectation-Maximization (EM) algorithm
+Softmax function
+
+
+
+logistic regression
+naive Bayes
+maximum likelihood estimation
+loss function
+gradient descent
+convex function
+alpha
+stochastic gradient descent
+AdaGrad
+learning rate
+features
+gradient
+squared gradient
+Epsilon
+minimum
+convergence
+Newton's method
+step size
+good starting point
+
+
+
+logistic regression
+maximum likelihood estimation
+loss function
+gradient descent
+convex function
+differentiable function
+continuous function
+Hessian
+zero-one loss
+approximation
+intuition
+regularizer
+maximum a posteriori (MAP)
+Bayes' rule
+likelihood function
+chain rule
+independent and identically distributed (iid)
+Gaussian distribution
+mean squared error
+
+
+
+square loss
+linear regression
+Gaussian noise
+MLE
+closed form solution
+gradient descent
+Hessian update
+cost function
+matrix notation
+derivative
+minimum
+constrained optimization problem
+maximization
+margin
+hyperplane
+constraint
+quadratic program
+SVM solver
+linearly separable data
+
+
+
+Support Vector Machines (SVM)
+hyperplane
+maximum margin
+constrained optimization problem
+slack variables
+soft constraints
+cost function
+SVM with soft constraints
+quadratic programming solver
+gradient descent
+hinge loss
+logistic loss
+exponential loss
+misclassification
+outliers
+regularization
+binary data set
+linear SVM
+kernel trick 
+
+
+
+
+Empirical risk minimization
+Loss function
+Regularizer
+Classification loss functions: hinge loss, hinge loss in support vector machines, squared loss, zero-one loss, exponential loss
+Regression loss functions: squared loss, absolute loss, log loss
+Least squares regression
+Average prediction
+Power law distribution
+Huber loss
+Delta function
+L2 regularization
+Ridge regression
+Bias-variance trade-off
+
+
+
+L1 regularization
+L2 regularization
+Sparsity
+Optimal solution
+Ball
+Complexity
+Overfitting
+Generalization
+Regularizer
+Feature selection
+High dimensional data
+Weight vector
+Zero weights
+Lasso
+Elastic net
+Squared loss
+SVM
+Logistic regression
+Training error
+
+
+
+Machine learning set up
+Supervised learning
+Data set
+Independent and identically distributed (iid)
+Expected error
+Training data set
+Validation data set
+Test data set
+True error
+Generalization error
+Hyperparameters
+Bias
+Regularization
+Nearest neighbors algorithm
+Maximum a posteriori (MAP)
+Bayes rule
+Naive Bayes
+Gaussian distribution
+Linear regression
+
+
+
+machine learning
+generalization error
+expected label
+classifier
+hypothesis
+training data
+algorithm
+test data point
+expectation
+splitting data
+bias
+variance
+high bias low variance
+low bias high variance
+high bias high variance
+analogy
+dartboard
+low variance no bias
+expectation value
+
+
+
+bias-variance tradeoff
+expected test error
+square error
+variance
+noise
+label
+data set size
+classifier
+average label
+reducible
+outliers
+data cleaning
+features
+Bayes optimal classifier
+approximation error
+regularize
+overfitting
+k-fold cross-validation
+validation set
+
+
+
+bias
+variance
+noise
+regularization
+lambda
+cross-validation
+validation error
+training error
+overfitting
+underfitting
+early stopping
+naive Bayes
+squared loss
+solution
+exam
+median
+score
+distribution
+project
+deadline
+office hours
+
+
+
+bias-variance tradeoff
+high bias problem
+diagnosing high bias
+training error
+test error
+linear classifier
+SVM
+non-linear interactions
+feature vector
+data dimensionality
+kernel function
+inner product
+gradient descent
+square loss
+convex function
+proof by induction
+linear combination
+alpha
+high dimensional space
+
+
+
+linear classifiers
+high bias
+add more features
+increase dimensionality
+vector W
+linear combination of X's
+alpha
+kernel function
+inner product
+square loss
+positive semi-definite
+data points
+inner product space
+RBF kernel
+Brad Pitt of the kernels
+efficient
+DNA data
+polynomial kernel
+construct your own kernels
+
+
+
+SVM (Support Vector Machine)
+Kernel SVM
+Linear SVM
+Quadratic programming problem
+Primal problem
+Dual problem
+Training set
+Testing set
+Hyperplane
+Linearly separable data
+Non-linearly separable data
+RBF kernel
+Inner product
+Cross-validation
+Error
+Spam filter
+Stop words
+By-grams
+Normalization
+
+
+
+Gaussian processes
+SVM's (Support Vector Machines)
+Kernel SVM's
+Nearest neighbor algorithm
+K nearest neighbor classification
+Decision function
+Convex optimization problem
+Dual problem
+Kernel regression
+High dimensional space
+Inner product
+Data set
+Classification problem
+Extra credit
+Machine learning in the wild
+Cowgirl hosted competition
+Picture pre-processing
+Steep learning
+Discrete class
+
+
+
+Gaussian distribution: A bell-shaped probability distribution with a single mode. [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]
+Maximum a posteriori (MAP): A method in Bayesian statistics to estimate the parameters of a model. [2,3,4,5,6,7,8,9]
+Linear regression: A statistical method for modeling the relationship between a dependent variable and one or more independent variables. [1]
+Noise: In statistics, the difference between an observed value and the expected value or the �true� value. [1,3,8,9,10,13,14,15,16]
+Prior: A probability distribution that expresses beliefs about an unknown quantity before some evidence is observed. [2,3,8,9]
+Likelihood: A function that describes the probability of observing a particular outcome given a certain set of parameters. [2,3,8,9]
+Bayesian rule: A method for updating beliefs based on new evidence. [2,3,8,9]
+Integral: The limit of a sum of infinitely many infinitely small terms, approaching a definite value as the terms become infinitely small and numerous. [3]
+Prediction: An educated guess about a future outcome. [2,18,19]
+Speech recognition: The technology of converting spoken language into text. [18]
+Uncertainty: Lack of certainty about the outcome of an event. [18,19,20,21]
+Gaussian process regression: A type of regression that uses Gaussian processes to model the relationship between a dependent variable and one or more independent variables. [18,19,20,21]
+Kernel: A function that determines the similarity between two data points. [18]
+RBF kernel: A popular kernel function used in Gaussian process regression. [18]
+Minimization: The act of finding the smallest value of a function. [19,20,21]
+Malaysian airliner: Refers to Malaysia Airlines Flight 370, which disappeared in March 2014. [21]
+Vaizey search strategy: A search strategy used to locate a missing object or person. [21]
+
+
+
+Gaussian Processes: a Bayesian approach to regression
+Gaussian distribution: a probability distribution
+Covariance function: a function that defines the covariance between every pair of variables in a joint Gaussian distribution
+Kernel: a function used to compute similarity between data points
+Least squares: a method for finding a line of best fit by minimizing the sum of squared errors
+Maximum a posteriori (MAP): a method to estimate the parameters of a model by finding the mode of the posterior distribution
+Overfitting: a modeling issue that occurs when a function learns the training data too well and fails to generalize to new data
+Uncertainty quantification: the ability to quantify the uncertainty associated with a prediction
+North Carolina outlawed Gaussian processes: a legislation to limit the use of Gaussian processes with nonlinear kernels to predict sea water levels
+Kernel dependency: a limitation of Gaussian processes where the model heavily relies on the chosen kernel
+Linear regression: a method for modeling the relationship between a dependent variable and one or more independent variables by fitting a linear function to the data
+Bayesian linear regression: a probabilistic approach to linear regression where the parameters of the model are treated as random variables
+Decision tree: a flowchart-like tree structure where each internal node represents a test on an attribute, and each leaf node holds a class label
+KD-tree: a k-dimensional tree used for nearest neighbor search
+Ball tree: a tree data structure where each node represents a hypersphere
+Splitting: dividing a dataset into subsets based on a certain attribute value
+Median: the middle value in a sorted list of numbers
+Pruning: removing unnecessary branches from a tree
+Nearest neighbor search: searching for the data point in a dataset that is closest to a given query point
+
+
+
+KD trees
+nearest neighbor search
+data set
+split the data in half
+dimension
+recursive function
+threshold
+nearest neighbor
+circle
+ball
+dimensionality
+curse of dimensionality
+brute-force attack
+distance
+cache performance
+parallelism
+matrix multiplication
+vector vector units
+ball trees
+
+
+
+decision tree
+nearest neighbor
+approximate nearest neighbor
+label
+psychopath
+superhero
+feature set
+mask
+cape
+underpants
+evil
+good
+test case
+smoke
+pointy ears
+height
+centimeter
+meter
+bias
+
+
+
+decision trees
+k-d trees
+impurity function
+Gini coefficient
+entropy
+nearest neighbor search
+classification
+machine learning
+bootstrapping
+bagging
+bias-variance tradeoff
+random forests
+weak law of large numbers
+overfitting
+underfitting
+in-sample error
+out-of-sample error
+handwritten letters
+character competition
+
+
+
+bagging
+classifier
+decision tree
+Gaussian processes
+homework
+kernel
+machine learning
+overfitting
+prediction
+probability
+random forest
+recitations
+SMS
+variance
+classifier ensemble
+boosting
+error function
+loss function
+weak learner
+
+
+
+Boosting
+Weak learner
+Strong learner
+Bias problem
+Gradient descent
+Ensemble methods
+AdaBoost
+Gradient boosted trees
+Support Vector Machine (SVM)
+Classification setting
+Loss function
+Hypothesis space
+Training data
+Labels
+Regression problem
+Feature vectors
+Random classifier
+Greedy algorithm
+Stochastic gradient descent
+
+
+
+Gradient boosting
+Weak learner
+Loss function
+Step size
+Gradient descent
+AdaBoost
+Exponential loss
+Classification setting
+Binary classifiers
+Line search
+Weights
+Error function
+Accuracy
+Overfitting
+Decision boundary
+Training error
+Testing error
+Validation error
+Upper bound
+
+
+
+Adaboost
+Bagging
+Boosting
+Car Trees
+Deep Learning
+Error function
+Gradient boosting
+Kernel
+Logistic regression
+Neural networks
+Perceptron project
+Regression trees
+Semester project
+Sigmoid function
+Supervised learning
+Training error
+Testing error
+Weak learner
+Weighted data points
+
+
+
+new homework assignment
+mistake in the last function of Python homework related to splitting function
+rectified linear units (ReLU) vs sigmoid transition functions
+gradient descent
+GPUs (graphical processing units) and their role in deep learning
+deep learning for object recognition
+convolutional neural networks
+image net competition
+deep learning for speech recognition
+loss function
+classifier
+perceptron
+linear classifier
+kernel machines
+颓废 (tuífèi) - Chinese word for "decadent" or "depraved" (used jokingly in the video)
+Xavier Simonyi (mentioned as one of the people who contributed to deep learning)
+Hottentots webpage (used for data collection on attractiveness)
+training accuracy vs testing accuracy
+bias in training data
+
+
+
+logistic regression [1,2]
+neural networks [1,2]
+deep learning [1,2]
+gradient descent [2,3,8]
+chain rule [4,5,6]
+backpropagation [5,6,7]
+activation function [3,8,9]
+loss function [1,2,8]
+hidden layers [3,8,9]
+error function [2,8]
+learning rate [8]
+cost function [2,8]
+嘰 (Ji) - Chinese character for loss [1]
+squared error loss [2]
+rectified linear units (ReLU) [9]
+TensorFlow Playground [9]
+Xavier initialization [NOT MENTIONED, but might be related to the lecture on backpropagation]
+Adam optimizer [NOT MENTIONED, but might be related to the lecture on gradient descent]
+softmax function [NOT MENTIONED, but might be related to the lecture on loss function]
+convolutional neural networks (CNNs) [NOT MENTIONED, but might be related to the lecture on deep learning]
+recurrent neural networks (RNNs) [NOT MENTIONED, but might be related to the lecture on deep learning]
+bias term [NOT MENTIONED, but might be related to the lecture on neural networks]
+
+
+
+convolutional neural networks
+local translational invariance
+fully connected network
+weights
+image classification
+kernels
+non-linear radio functions
+rectified linear unit
+deep learning
+GPU
+error rate
+training data
+manifold
+dimensionality reduction
+Swiss roll
+principal component analysis (PCA)
+co-authors
+Ithaka
+Toby
+
+
+
+in-class Kaggle competition
+identify tweets from iPhone or Android phone
+classify between President Trump's tweets from iPhone or Android phone
+leaderboard for classification accuracy
+household wabbit (HW) classifier
+download data for training and testing
+features for classification: tweet text, not including metadata
+remove characters that HW cannot swallow (e.g. colon, dot, exclamation point)
+convert all text to lowercase
+shuffle training data
+logistic loss function
+learning rate
+number of passes over the data
+create a cache file
+save the model
+test the model
+predictions
+upload results
+Kaggle competition in 5 minutes
+
+
+
+machine learning
+massive potential
+write a program once
+teach it multiple things
+artificial intelligence
+understand anything
+not enough
+underlying principles
+foundations
+perceptron
+state-of-the-art algorithms
+apply these algorithms
+debug them
+
+
+
+language modeling
+bag of word vector
+neural network
+hidden layer
+softmax function
+classifier
+word embedding
+positional embedding
+attention layer
+Transformer encoder
+Transformer decoder
+masked multi-head attention
+gpt3
+code generation
+emerging abilities
+quicksort implementation in Python
+
+
+
+DBSCAN
+density-based spatial clustering of applications with noise
+invented by Ester et al. in 1996
+clustering algorithm
+Epsilon (ε)
+MinPts (M)
+nearest neighbor graph
+core point
+degree
+cluster
+random core point
+connected
+friends
+bring their friends with them
+noise point
+noisy smiley face
+K-means
+

@@ -1,0 +1,19 @@
+
+machine learning
+reflex models
+state based models
+variable based models
+logic models
+classification
+regression
+multi-class classification
+ranking
+structured prediction
+binary classification
+loss minimization
+stochastic gradient descent
+linear predictors
+feature extraction
+features email address
+learning algorithm
+predictor

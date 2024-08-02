@@ -1,0 +1,204 @@
+
+deep learning
+Stanford Courses
+Coursera
+flipped classroom format
+machine learning
+deep learning applications
+cost function
+optimization algorithms
+convolutional neural networks
+recurrent neural networks
+bias variance tradeoff
+dropout
+natural language processing
+computer vision
+speech recognition
+recommender systems
+healthcare
+climate change
+computational biology
+
+
+deep learning project decisions: data collection, data labeling, architecture selection, loss function design
+logistic regression: first architecture, takes vector as input
+multi-logistic regression: several units/neurons for classification of multiple animals
+one-hot encoding: labeling data with one-hot vectors
+image classification: classifying images with labels
+convolutional neural networks: a type of architecture
+recurrent neural networks: a type of architecture
+activation function: the last function in an architecture
+stochastic gradient descent: an optimizer
+batch gradient descent: an optimizer
+rmsprop: an optimizer
+momentum: an optimizer
+hyperparameter: learning rate
+Monty comm: a tool for interactive questions and attendance tracking
+neural style transfer: creating images with style of one image and content of another image
+imagenet: a pre-trained model for image classification
+L2 loss: a measure of the difference between two vectors
+wake word detection: detecting a specific word in audio
+positive/negative word classification: classifying words as positive or negative
+programmatic generation of samples: generating data programmatically
+background noise database: a database of background noise
+
+
+machine learning project steps
+deep learning models
+supervised learning
+trigger word
+labeled data
+training a model
+deploying a model
+maintaining a system
+quality assurance (QA)
+iterative process
+neural network architecture
+train dev and test data
+class project proposals
+data availability
+domain knowledge
+collecting data
+wake word
+convolutional neural networks
+edge devices
+
+
+adversarial examples
+neural networks
+vulnerability of neural networks
+attacking neural networks
+imagenet
+pre-trained network
+fooling a network
+l2 loss
+l1 loss
+cross-entropy loss
+image generation
+neural style transfer
+cost function
+generator network
+discriminator network
+real-world images
+latent code
+generative models
+image to image translation
+
+
+AI applications in healthcare
+Levels of questions that can be asked from data: descriptive, diagnostic, predictive, prescriptive
+Deep learning paradigm shift: combining feature extraction and classification into one step
+Future paradigm shift for AI in healthcare: automatically learn architecture
+Medical imaging: arrhythmias, ECG, holter monitor, Zeo patch
+Challenges of automated ECG interpretation: single lead vs multiple leads, subtle differences between heart rhythms
+Skin disease detection: segmentation, binary classification
+Data augmentation: rotation, zoom, blur, translation, combination of those, stretch, symmetry
+Tasks where data augmentation might hurt the model: overfitting on the test set, encoder, face detection
+Importance of a well-labeled dataset
+Boundary detection in segmentation
+Class activation maps for visualizing why a network makes a prediction
+Pipeline for autonomous driving: car detector, pedestrian detector, path cleaner
+Disadvantages of a pipeline model: error localization, human-made errors in choosing components
+Advantages of a pipeline model: easier data collection for sub-problems
+
+
+machine learning project strategy
+choose-your-own-adventure lecture
+strategically sophisticated team
+CEO of a small start-up
+build a learning algorithm
+recognize the phrase "Robert turn on"
+embedded circuitry
+neural network
+research papers
+reading research papers
+parallel exploration process
+skim research papers
+machine learning literature
+trigger word detection system
+data collection
+data augmentation
+train a quick and dirty system
+validate a system
+high variance problem
+
+
+saliency maps
+occlusion sensitivity
+class activation maps
+convolutional neural networks (CNNs)
+softmax output layer
+score of an animal
+gradient ascent
+class model visualization
+data set search
+deconvolution
+deep dream
+filter
+stride
+feature map
+activation
+deconvolution 3d
+visualizing understanding convolutional networks
+weights
+first layer
+
+
+how to read research papers
+navigate a career in machine learning
+compile lists of research papers
+skim and understand research papers
+reading a research paper
+first pass of reading a research paper: title, abstract, figures
+second pass of reading a research paper: math
+importance of math for machine learning
+reimplementing code from scratch
+spaced repetition for learning
+reading research papers on paper vs tablet
+advice for keeping up with learning
+failure modes in navigating a career
+taking classes in a broad range of areas
+getting a good GPA but not doing projects
+jumping into one deep learning area too early
+working on a boring project after graduation
+meaningful ways to use machine learning
+machine learning for social good
+
+
+Deep learning and reinforcement learning
+AlphaGo
+Deep Q-Network
+Go game
+State space
+Q-table
+Discounted return
+Bellman equation
+Deep Q-learning function approximator
+Convolutional neural network
+Exploration vs exploitation
+Epsilon-greedy strategy
+Replay memory
+Supervised learning
+BrickBreaker from DeepMind
+Human-learned knowledge
+Model-agnostic meta-learning
+Montezuma's Revenge
+Intrinsic reward
+
+
+conversational assistant
+chatbot
+natural language processing
+transfer learning
+intent
+slot
+utterance
+sequence classifier
+recurrent neural network
+API
+knowledge graph
+machine learning engineer
+GDP growth
+AI
+healthcare
+

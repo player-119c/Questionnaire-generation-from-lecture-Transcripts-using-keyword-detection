@@ -1,0 +1,503 @@
+
+
+
+human language and word meaning
+word to vec algorithm
+word vector learning
+objective function gradients
+deep learning word vectors
+amazing deep learning word vectors
+human languages
+social system constructed by human beings
+xkcd cartoon
+syntactic ambiguities of sentences
+language is a glorious chaos
+computers understand human language
+artificial intelligence
+human brain
+chimpanzees
+bonobos
+short-term memory
+ascendancy over other creatures
+communication between human beings
+
+
+
+word vectors
+word embedding
+neural network classifiers
+bag-of-words model
+gradient descent
+stochastic gradient descent
+word2vec
+google word2vec
+glove
+sanjiv aurora
+co-occurrence matrix
+word similarity
+semantic similarity
+intrinsic evaluation
+human judgments
+polysemy
+word sense disambiguation
+sparse coding
+high dimensional vector space
+
+
+
+neural net learning
+gradients for training neural networks
+back propagation algorithm
+assignment one
+assignment two
+named entity recognition
+logistic classifier
+word vectors
+context window
+softmax classifier
+neural network layer
+hidden vector
+word embedding
+negative sampling
+chain rule
+computational graph
+backpropagation algorithm
+pytorch
+deep learning framework
+
+
+
+constituency parsing
+dependency parsing
+natural language processing
+syntactic structure
+parts of speech
+determiners
+noun phrases
+prepositional phrases
+context-free grammars
+non-terminals
+tree banks
+universal dependencies tree banks
+machine learning
+dependency grammar
+projective dependencies
+non-projective dependencies
+beam search
+transition-based parsing
+symbolic features
+
+
+
+transition-based dependency parsers
+symbolic features
+neural dependency parser
+dense and compact feature representation
+chine and manning parser
+unlabeled attachment score
+labeled attachment score
+graph-based dependency parsing
+language model
+n-grams
+markov assumption
+markov models
+conditional probability
+engram language model
+foreground language model
+trigram model
+word embedding
+recurrent neural network (RNN)
+hidden state
+
+
+
+recurrent neural networks (RNNs)
+language models
+engram language models
+current neural network models
+training RNNs
+uses of RNNs
+problems with RNNs
+LSTMs
+bi-directional RNNs
+multi-layer RNNs
+sequence to sequence models
+attention
+machine translation
+soft max layer
+cross-entropy loss
+teacher forcing
+stochastic gradient scent
+back propagation
+perplexity
+
+
+
+machine translation
+sequence to sequence models
+attention
+assignment 3
+assignment 4
+pre-history of machine translation
+source language
+target language
+rule-based systems
+word lookup
+statistical machine translation
+perplexity
+conditional language models
+encoder
+decoder
+greedy decoding
+beam search decoding
+machine translation evaluation
+attention in machine translation
+
+
+
+self-attention
+transformers
+natural language processing
+machine translation
+recurrent neural networks (RNNs)
+LSTMs
+gradient problems
+linear interaction distance
+long distance dependencies
+attention
+sequence length
+embedding matrix
+self-attention operation
+position vectors
+keys
+queries
+values
+masking
+decoders
+
+
+
+subword modeling
+word embeddings
+unknown tokens (UNK)
+Swahili verb conjugation
+co-occurring substrings
+character-level vocabulary
+sentence embedding
+Transformer
+masked language modeling
+bi-directional context
+BERT (Bidirectional Encoder Representations from Transformers)
+span corruption
+generative pre-training
+T5 (Text-to-Text Transfer Transformer)
+salience band masking
+open domain question answering
+decoder-only models
+GPT (Generative Pre-trained Transformer)
+natural language inference
+
+
+
+Large language models (LLMs)
+GPT (Generative Pre-trained Transformer)
+Zero-shot learning
+Few-shot learning
+Chain of Thought prompting
+Winograd schema challenge
+Supervised fine-tuning
+RLHF (Reinforcement Learning from Human Feedback)
+Prompting instruction fine-tuning
+Chat GPT
+Scaling compute for LLMs
+LLM as rudimentary World models
+Agent reasoning and LLMs
+LLM predicting next sentence in text
+LLM solving math reasoning problems
+LLM code-generation
+LLM in medicine
+Assistant capabilities of LLMs
+Jailbreaking LLMs
+
+
+
+NLG is a subfield of NLP that deals with generating human-like text.
+NLG applications include machine translation, chatbots, and summarization.
+NLG tasks can be categorized based on open-endedness: closed-ended (machine translation), mid (dialogue), open-ended (story generation).
+Autoregressive models are commonly used for NLG, where the next word is predicted based on previous words.
+Teacher forcing is a technique for training NLG models where the ground truth is fed back into the model.
+Top-k decoding is a technique for NLG models where only the top k most probable tokens are considered at each step.
+Beam search is a decoding algorithm that explores a set of top k partial sequences and expands the most promising ones.
+Re-ranking is a technique for improving the quality of NLG outputs by scoring and selecting the best candidate.
+NLG models can be evaluated using perplexity, BLEU score, or human evaluation.
+Large language models like GPT-3 are powerful NLG models with limitations in creativity and reasoning.
+Ethical considerations of NLG include bias, fairness, and generation of harmful content.
+Safeguards against harmful content in NLG models include data cleaning and filtering.
+
+
+
+question answering (QA)
+types of question answering problems
+information source for question answering
+question types
+answer types
+real-world applications of question answering
+early question answering system
+IBM Watson question answering system
+question answering using neural models
+transformer models for question answering
+passage reading comprehension
+Stanford Question Answering Dataset (SQuAD)
+attention models
+answer span prediction
+extractive vs. generative question answering models
+BERT model
+dense passage retrieval methods
+open domain question answering
+challenges of question answering in low-resource languages
+
+
+
+co-reference resolution
+mention
+convolutional neural networks
+character cnn
+padding
+max pooling
+convolutional neural networks for language applications
+word embedding
+bi-directional lstm
+attention
+co-reference model
+span
+intention-based representation
+co-reference systems
+Stanford Coreference
+BERT
+spanBERT
+question-answering task
+co-reference clustering metric
+
+
+
+Linguistics and NLP
+Large language models
+Structure in human language
+Signed languages
+Infinite communication with finite brain
+Subtrees in language
+Passive alternation
+Implicit knowledge of structure
+Question formation
+Syntax to roll mapping
+Big language models and syntactic knowledge
+Ground truth for how language works
+Semantics and human language
+High dimensional spaces for meaning
+Surface level memorization vs abstraction
+Encoder decoder models for multilingual NLP
+Multilingual model challenges
+Direction of motion in Spanish
+Language specificity in NLP models
+
+
+
+Lecture 15 of CS224N course covers integrating knowledge and language models.
+Language models are trained on a massive amount of unlabeled text data.
+Standard language models predict the next word in a sequence of text.
+Masked language models are trained to predict masked out words in a sequence.
+Language models can be used for various tasks, including summarization, dialogue, fluency evaluation, and generating pre-trained representations of text.
+Language models can be used as a knowledge base to answer natural language queries.
+Language models may not always recall factual knowledge correctly.
+Challenges of using language models as knowledge bases include:
+Difficulty in interpreting why a model produces a specific answer.
+Lack of ability to explain the provenance of the information.
+Difficulty in interpreting why a model produces a specific answer.
+Lack of ability to explain the provenance of the information.
+Recent work has shown promising results in adding knowledge to language models.
+One technique to add knowledge to language models is to use pre-trained entity embeddings.
+Another technique is to use external memory or a key-value store.
+A third technique is to modify the training data.
+Knowledge-enhanced language models can outperform traditional language models on downstream tasks.
+Downstream tasks are tasks where a pre-trained model is fine-tuned for a specific task.
+Examples of downstream tasks include relation extraction, entity typing, and question answering.
+Probes are used to evaluate the knowledge already present in a model.
+Challenges of using probes include:
+Difficulty in constructing benchmarks to test the knowledge.
+Difficulty in constructing queries to test the knowledge.
+
+
+
+program synthesis
+Perkin synthesis
+logical specifications
+natural language description
+output program correctness
+test cases
+sorting an array
+mathematical formula
+permutation
+hidden tests
+Passat K
+Codex model
+Xs model
+sample a lot more programs
+Oracle re-ranking
+Alpha code
+filtering
+clustering programs
+augment training data
+
+
+
+model analysis and explanation
+course logistics
+guest lecture reactions
+final project
+due date
+deadline
+xkcd comic
+black box functions
+understanding our models
+model improvements
+model biases
+out-of-domain evaluations
+incremental progress
+language models
+saliency maps
+gradient method
+input saliency methods
+breaking models
+question answering
+
+
+
+extremely large language models (ELLMs)
+gpd3
+neural network
+transformer models
+bird
+gpt
+in-context learning
+language modeling
+text completion
+close book QA
+reading comprehension
+scalability
+honeybee brain
+GPT-2
+sparse attention patterns
+in-context learning
+fast adaptation
+few-shot learning
+bash language
+
+
+
+Python review session
+Introduction to Python
+Why Python is used for deep learning
+Setting up Python environment (mentioned but not covered in the video)
+Variables in Python
+Data types in Python
+Type casting in Python
+Boolean values in Python
+None value in Python
+Lists in Python
+Functions in Python
+Conditional statements in Python (if, else)
+Comparison operators in Python
+Indentation in Python
+Arrays in Python (NumPy)
+Indexing arrays in Python
+Slicing arrays in Python
+Concatenating arrays in Python
+Negative indexing in Python
+
+
+
+deep learning framework [deep learning framework]
+tensor [tensor]
+numpy [numpy]
+multi-dimensional array [multi-dimensional array]
+data manipulation [data manipulation]
+neural network [neural network]
+gradient computation [gradient computation]
+optimization [optimization]
+training loop [training loop]
+PyTorch vs TensorFlow [PyTorch vs TensorFlow]
+torch.nn [torch.nn]
+tensor data type [tensor data type]
+torch.zeros [torch.zeros]
+torch.ones [torch.ones]
+torch.range [torch.range]
+broadcasting [broadcasting]
+reshaping tensors [reshaping tensors]
+vectorized operations [vectorized operations]
+list indexing [list indexing]
+autograd [autograd]
+SGD optimizer [SGD optimizer
+
+
+
+Hugging Face Transformers library is useful for using pre-trained NLP models
+It is especially useful for custom NLP projects
+This tutorial covers sentiment analysis using the hugging face library
+Transformers are pre-trained models available from the Hugging Face Hub
+A tokenizer is used to convert text into tokens for the model
+AutoTokenizer can be used to automatically select the correct tokenizer for a model
+Tokenizers can be used with padding to ensure all inputs are the same length
+Batching is a technique to process multiple data points at a time
+Distilbert for sequence classification is a type of model from Hugging Face
+Attention mask is used to specify which parts of the input the model should focus on
+Trainer class simplifies the training process
+Early stopping is a technique to stop training when the model is not improving
+Checkpoint is a saved version of the model during training
+Pipelines provide a way to use pre-trained models for specific tasks
+Mass language modeling is a type of NLP task
+
+
+
+Multimodal deep learning
+NLP
+Images
+Text
+Understanding the world
+MCGurk effect
+Audiovisual integration
+Retrieval
+Image captioning
+Text generation
+Visual question answering
+Multimodal classification
+Downstream applications
+Foundation models
+Contrastive models
+Lake Fusion
+Early multimodal models
+Image encoders
+Text encoders
+
+
+
+machine learning models interpretability and explainability
+communication between people and machines
+AlphaGo
+move 37
+representational space
+conversation
+sample complexity
+causal tracing algorithm
+editing factual knowledge in language models
+localization of edits
+intervention
+emerging behaviors
+multi-agent system
+Alpha Zero
+human vs machine concepts
+embedding space
+neuroscience
+interpretability research bias
+cat brain vertical line neuron
+
+ 
